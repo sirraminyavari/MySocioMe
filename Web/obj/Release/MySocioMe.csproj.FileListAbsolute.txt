@@ -1,0 +1,18 @@
+E:\SRC\My Instagram Analyzer\Web\bin\MySocioMe.Web.dll.config
+E:\SRC\My Instagram Analyzer\Web\bin\MySocioMe.Web.dll
+E:\SRC\My Instagram Analyzer\Web\bin\MySocioMe.Web.pdb
+E:\SRC\My Instagram Analyzer\Web\bin\DBUtil.dll
+E:\SRC\My Instagram Analyzer\Web\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\SRC\My Instagram Analyzer\Web\bin\DBUtil.pdb
+E:\SRC\My Instagram Analyzer\Web\obj\Release\MySocioMe.csprojResolveAssemblyReference.cache
+E:\SRC\My Instagram Analyzer\Web\obj\Release\MySocioMe.Web.dll
+E:\SRC\My Instagram Analyzer\Web\obj\Release\MySocioMe.Web.pdb
+E:\SRC\MySocioMe\Web\bin\MySocioMe.Web.dll.config
+E:\SRC\MySocioMe\Web\bin\MySocioMe.Web.dll
+E:\SRC\MySocioMe\Web\bin\MySocioMe.Web.pdb
+E:\SRC\MySocioMe\Web\bin\DBUtil.dll
+E:\SRC\MySocioMe\Web\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\SRC\MySocioMe\Web\bin\DBUtil.pdb
+E:\SRC\MySocioMe\Web\obj\Release\MySocioMe.csprojResolveAssemblyReference.cache
+E:\SRC\MySocioMe\Web\obj\Release\MySocioMe.Web.dll
+E:\SRC\MySocioMe\Web\obj\Release\MySocioMe.Web.pdb

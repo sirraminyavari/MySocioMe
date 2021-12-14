@@ -1,0 +1,70 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="TopMaster.master.cs" Inherits="MySocioMe.Web.Page.TopMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>My Socio Me</title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="shortcut icon" href="../image/MySocialInsight2.ico" />
+
+    <link type="text/css" rel="stylesheet" href="../CSS/style.css" />
+    <link type="text/css" rel="stylesheet" href="../Script/jAlerts/jquery.alerts.css" />
+    <link type="text/css" rel="stylesheet" href="../Script/foundation/foundation.css" />
+    <link type="text/css" rel="stylesheet" href="../Fonts/font-awesome.css" />
+    <link type="text/css" rel="stylesheet" href="../Script/auto-complete/auto-complete.css" />
+
+    <script type="text/javascript" src="../Script/jquery.js"></script>
+    <script type="text/javascript" src="../Script/jquery.mb.browser.js"></script>
+    <script type="text/javascript" src="../Script/foundation/foundation.js"></script>
+    <script type="text/javascript" src="../Script/foundation/what-input.js"></script>
+    <script type="text/javascript" src="../Script/json2.js"></script>
+    <script type="text/javascript" src="../Script/text-encoding.js"></script>
+    <script type="text/javascript" src="../Script/global-utilities.js"></script>
+    <script type="text/javascript" src="../Script/jAlerts/jquery.alerts.js"></script>
+    <script type="text/javascript" src="../Script/override-alerts.js"></script>
+    <script type="text/javascript" src="../Script/api.js"></script>
+    <script type="text/javascript" src="../Script/auto-complete/auto-complete.js"></script>
+
+    <script type="text/javascript">
+        jQuery(document).ready(function () { jQuery(document).foundation(); });
+    </script>
+
+    <script type="text/javascript">
+        (function () {
+            var days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+            var months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+
+            Date.prototype.getMonthName = function () { return months[this.getMonth()]; };
+            Date.prototype.getDayName = function () { return days[this.getDay()]; };
+        })();
+    </script>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body style="font-family:IRANSans; background-color:rgb(245,245,220);">
+    <form id="idFrmMaster" runat="server" ClientIDMode="static">
+
+    <asp:HiddenField runat="server" ID="initialJson" ClientIDMode="Static" />
+
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+
+    <script type="text/javascript">
+        //Change form's onsubmit such that it dosn't refresh on enter!
+		var __MASTER_FORM = document.getElementById("idFrmMaster");
+		__MASTER_FORM.onkeydown = __SET_MASTER_FORM_ONKEYDOWN;
+		function __SET_MASTER_FORM_ONKEYDOWN(event) { event = event || window.event; if (event.keyCode == 13) __MASTER_FORM.onsubmit = __MASTER_FORM_RETURN_FALSE; }
+		function __RESET_MASTER_FORM_ONSUBMIT(){__MASTER_FORM.onsubmit = __MASTER_FORM_RETURN_TRUE;}
+		function __MASTER_FORM_RETURN_TRUE(event){return true;}
+		function __MASTER_FORM_RETURN_FALSE(event){setTimeout(__RESET_MASTER_FORM_ONSUBMIT, 10); return false;}
+		//end of 'Change form's onsubmit...
+    </script>
+    </form>
+</body>
+</html>

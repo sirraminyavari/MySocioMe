@@ -1,0 +1,1473 @@
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\ResolveAssemblyReference.cache
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.BLL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.DAL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.BLL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.DAL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.BLL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.DAL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Framework.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Telerik.Web.UI.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\FarhaniPersianDate.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Framework.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.BLL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.DAL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.BLL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.DAL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.BLL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.DAL.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+G:\RaaiVanSource(Remote)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.BLL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.DAL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.BLL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.DAL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.BLL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.DAL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Framework.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Framework.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.BLL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.DAL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.BLL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.DAL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.BLL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.DAL.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csprojResolveAssemblyReference.cache
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+G:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\ResolveAssemblyReference.cache
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.BLL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.DAL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.BLL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.DAL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.BLL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.DAL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Framework.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Framework.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.BLL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.DAL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.BLL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.DAL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.BLL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.DAL.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.pdb
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.BLL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.DAL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.BLL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.DAL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.BLL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.DAL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Framework.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Telerik.Web.UI.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Framework.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.BLL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Messaging.DAL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.BLL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Node.DAL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.BLL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Organ.DAL.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\ResolveAssemblyReference.cache
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v24)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\ResolveAssemblyReference.cache
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+D:\RaaiVanSource - (v25)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\ResolveAssemblyReference.cache
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v26)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.BLL.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Knowledge.DAL.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowTempKnowledge.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\ResolveAssemblyReference.cache
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v25.1.1.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\ResolveAssemblyReference.cache
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.dll
+D:\RaaiVanSource - (v26.0.0.0)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\ResolveAssemblyReference.cache
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v27)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v26.6.2.5)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csprojResolveAssemblyReference.cache
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csprojResolveAssemblyReference.cache
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csproj.ResolveComReference.cache
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource - (v26.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Newtonsoft.Json.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Newtonsoft.Json.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csprojResolveAssemblyReference.cache
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.xmlworker.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\HtmlAgilityPack.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll.config
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.Security.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Owin.dll
+D:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csprojResolveAssemblyReference.cache
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll.config
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.Security.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Newtonsoft.Json.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Owin.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.xmlworker.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\HtmlAgilityPack.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+E:\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll.config
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.Security.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Newtonsoft.Json.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Owin.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.xmlworker.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\HtmlAgilityPack.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.BLL.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Partiana.Profile.DAL.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csprojResolveAssemblyReference.cache
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x)\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll.config
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.UI.WebApplication.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ICSharpCode.SharpZipLib.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.FileProviders.Abstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.FileProviders.Physical.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Hosting.Abstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Hosting.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Hosting.Server.Abstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Http.Abstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Http.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Http.Extensions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Http.Features.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.SignalR.Core.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.WebUtilities.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Dnx.Compilation.Abstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.Json.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.DependencyInjection.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Logging.Abstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Logging.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.PlatformAbstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Primitives.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.WebEncoders.Core.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Framework.DependencyInjection.Abstractions.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Framework.DependencyInjection.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Net.Http.Headers.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Owin.Security.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Newtonsoft.Json.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Owin.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\SaasKit.Multitenancy.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\System.Diagnostics.DiagnosticSource.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\System.Linq.Dynamic.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\ClosedXML.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Core.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.PdfConversion.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\tika-app.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.API.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommunication.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\PDUConverter.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\itextsharp.xmlworker.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.SwingAWT.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Cyotek.GhostScript.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\HtmlAgilityPack.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\DocumentFormat.OpenXml.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Util.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Security.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Text.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Media.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Jdbc.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Beans.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Naming.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Remoting.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Bind.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Management.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.Runtime.JNI.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\GSMCommShared.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.AWT.WinForms.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Charsets.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Misc.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.XML.Parse.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\IKVM.OpenJDK.Corba.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.CoreNetwork.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.DataExchange.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Documents.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Events.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.FormGenerator.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.GlobalUtilities.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Jobs.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Knowledge.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Log.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Messaging.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.NotificationCenter.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Privacy.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.QA.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RaaiVanConfig.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\RaaiVanIntermediate.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Reports.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.RSS.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Search.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Sharing.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Users.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.Wiki.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\KnowledgeManagement.Modules.WorkFlow.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.FileProviders.Abstractions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.FileProviders.Physical.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Hosting.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Hosting.Abstractions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Hosting.Server.Abstractions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Http.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Http.Abstractions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Http.Extensions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.Http.Features.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.AspNet.WebUtilities.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Dnx.Compilation.Abstractions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.CommandLine.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.EnvironmentVariables.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Configuration.Json.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.DependencyInjection.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Logging.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Logging.Abstractions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.PlatformAbstractions.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.Primitives.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Extensions.WebEncoders.Core.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Microsoft.Net.Http.Headers.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\System.Diagnostics.DiagnosticSource.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.pdb
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\bin\Lucene.Net.Contrib.FastVectorHighlighter.xml
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.csprojResolveAssemblyReference.cache
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.dll
+E:\SRC\RaaiVanSource - (v27.x.x.x) - Multitenant\KnowledgeManagement\UI\KnowledgeManagement.UI.WebApplication\obj\Release\KnowledgeManagement.UI.WebApplication.pdb

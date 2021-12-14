@@ -1,0 +1,9 @@
+E:\SRC\MySocioMe\Web\bin\MySocioMe.Web.dll.config
+E:\SRC\MySocioMe\Web\bin\MySocioMe.Web.dll
+E:\SRC\MySocioMe\Web\bin\MySocioMe.Web.pdb
+E:\SRC\MySocioMe\Web\bin\DBUtil.dll
+E:\SRC\MySocioMe\Web\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\SRC\MySocioMe\Web\bin\DBUtil.pdb
+E:\SRC\MySocioMe\Web\obj\Debug\MySocioMe.csprojResolveAssemblyReference.cache
+E:\SRC\MySocioMe\Web\obj\Debug\MySocioMe.Web.dll
+E:\SRC\MySocioMe\Web\obj\Debug\MySocioMe.Web.pdb

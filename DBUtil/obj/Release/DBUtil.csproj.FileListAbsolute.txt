@@ -1,0 +1,16 @@
+E:\SRC\My Instagram Analyzer\DBUtil\bin\Release\DBUtil.dll
+E:\SRC\My Instagram Analyzer\DBUtil\bin\Release\DBUtil.pdb
+E:\SRC\My Instagram Analyzer\DBUtil\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+E:\SRC\My Instagram Analyzer\DBUtil\obj\Release\DBUtil.csprojResolveAssemblyReference.cache
+E:\SRC\My Instagram Analyzer\DBUtil\obj\Release\DBUtil.Properties.Resources.resources
+E:\SRC\My Instagram Analyzer\DBUtil\obj\Release\DBUtil.csproj.GenerateResource.Cache
+E:\SRC\My Instagram Analyzer\DBUtil\obj\Release\DBUtil.dll
+E:\SRC\My Instagram Analyzer\DBUtil\obj\Release\DBUtil.pdb
+E:\SRC\MySocioMe\DBUtil\bin\Release\DBUtil.dll
+E:\SRC\MySocioMe\DBUtil\bin\Release\DBUtil.pdb
+E:\SRC\MySocioMe\DBUtil\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+E:\SRC\MySocioMe\DBUtil\obj\Release\DBUtil.csprojResolveAssemblyReference.cache
+E:\SRC\MySocioMe\DBUtil\obj\Release\DBUtil.Properties.Resources.resources
+E:\SRC\MySocioMe\DBUtil\obj\Release\DBUtil.csproj.GenerateResource.Cache
+E:\SRC\MySocioMe\DBUtil\obj\Release\DBUtil.dll
+E:\SRC\MySocioMe\DBUtil\obj\Release\DBUtil.pdb

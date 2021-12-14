@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D91392A2-ED28-445B-B8F7-A3719CD2DFB4}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MySocioMe.Web</RootNamespace>
+    <AssemblyName>MySocioMe.Web</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <TargetFrameworkProfile />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <FilesToIncludeForPublish>OnlyFilesToRunTheApp</FilesToIncludeForPublish>
+    <ExcludeApp_Data>false</ExcludeApp_Data>
+    <ExcludeGeneratedDebugSymbol>false</ExcludeGeneratedDebugSymbol>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PublishDatabaseSettings>
+      <Objects>
+      </Objects>
+    </PublishDatabaseSettings>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CSS\style.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="error.aspx" />
+    <Content Include="Fonts\font-awesome.css" />
+    <Content Include="Fonts\fontawesome-webfont.svg" />
+    <Content Include="Global.asax" />
+    <Content Include="image\01.jpg" />
+    <Content Include="image\02.jpg" />
+    <Content Include="image\03.jpg" />
+    <Content Include="image\04.jpg" />
+    <Content Include="image\05.jpg" />
+    <Content Include="image\06.jpg" />
+    <Content Include="image\07.jpg" />
+    <Content Include="image\08.jpg" />
+    <Content Include="image\09.jpg" />
+    <Content Include="image\10.jpg" />
+    <Content Include="image\11.jpg" />
+    <Content Include="image\12.jpg" />
+    <Content Include="image\13.jpg" />
+    <Content Include="image\14.jpg" />
+    <Content Include="image\15.jpg" />
+    <Content Include="image\16.jpg" />
+    <Content Include="image\17.jpg" />
+    <Content Include="image\18.jpg" />
+    <Content Include="image\19.jpg" />
+    <Content Include="image\20.jpg" />
+    <Content Include="image\21.jpg" />
+    <Content Include="image\22.jpg" />
+    <Content Include="image\23.jpg" />
+    <Content Include="image\24.jpg" />
+    <Content Include="image\25.jpg" />
+    <Content Include="image\26.jpg" />
+    <Content Include="image\27.jpg" />
+    <Content Include="image\28.jpg" />
+    <Content Include="image\29.jpg" />
+    <Content Include="image\30.jpg" />
+    <Content Include="image\31.jpg" />
+    <Content Include="image\32.jpg" />
+    <Content Include="image\33.jpg" />
+    <Content Include="image\discover.png" />
+    <Content Include="image\help\bookmark-locations-2.png" />
+    <Content Include="image\help\bookmark-pages-2.png" />
+    <Content Include="image\help\bookmark-tags-2.png" />
+    <Content Include="image\help\tags-report.png" />
+    <Content Include="image\ipg.png" />
+    <Content Include="image\MySocialInsight-16x16.png" />
+    <Content Include="image\MySocialInsight-24x24.png" />
+    <Content Include="image\MySocialInsight-32x32.png" />
+    <Content Include="image\MySocialInsight-48x48.png" />
+    <Content Include="image\MySocialInsight-64x64.png" />
+    <Content Include="image\MySocialInsight-96x96.png" />
+    <Content Include="image\MySocialInsight2.ico" />
+    <Content Include="Page\Home.aspx" />
+    <Content Include="Page\Login.aspx" />
+    <Content Include="Page\PrivacyPolicy.aspx" />
+    <Content Include="Page\Wellcome.aspx" />
+    <Content Include="Script\api.js" />
+    <Content Include="Script\auto-complete\auto-complete.css" />
+    <Content Include="Script\auto-complete\auto-complete.js" />
+    <Content Include="Script\chart\Chart.js" />
+    <Content Include="Script\chart\Chart.min.js" />
+    <Content Include="Script\chart\chart.zoom.js" />
+    <Content Include="Script\chart\hammer.js" />
+    <Content Include="Script\chart\hammer.min.js" />
+    <Content Include="Script\foundation\foundation.css" />
+    <Content Include="Script\foundation\foundation.js" />
+    <Content Include="Script\foundation\what-input.js" />
+    <Content Include="Script\global-utilities.js" />
+    <Content Include="Script\jAlerts\jquery.alerts.css" />
+    <Content Include="Script\jAlerts\jquery.alerts.js" />
+    <Content Include="Script\jquery.js" />
+    <Content Include="Script\jquery.mb.browser.js" />
+    <Content Include="Script\json2.js" />
+    <Content Include="Script\location-picker.js" />
+    <Content Include="Script\location\locationpicker.jquery.js" />
+    <Content Include="Script\media-mini.js" />
+    <Content Include="Script\location-media.js" />
+    <Content Include="Script\my-bookmarks.js" />
+    <Content Include="Script\override-alerts.js" />
+    <Content Include="Script\r-discover.js" />
+    <Content Include="Script\r-stats.js" />
+    <Content Include="Script\profile-page.js" />
+    <Content Include="Script\tag-media.js" />
+    <Content Include="Script\location-mini.js" />
+    <Content Include="Script\text-encoding.js" />
+    <Content Include="Script\tag-mini.js" />
+    <Content Include="Script\tooltip\jquery.tooltip.js" />
+    <Content Include="Script\tooltip\style.css" />
+    <Content Include="Script\tooltip\tooltip.gif" />
+    <Content Include="Script\user-mini.js" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Ajax\API.ashx.cs">
+      <DependentUpon>API.ashx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Code\API.cs" />
+    <Compile Include="App_Code\BackgroundUpdate.cs" />
+    <Compile Include="App_Code\Geometry.cs" />
+    <Compile Include="App_Code\Jobs.cs" />
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="error.aspx.cs">
+      <DependentUpon>error.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="error.aspx.designer.cs">
+      <DependentUpon>error.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Page\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Page\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Page\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Page\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Page\PrivacyPolicy.aspx.cs">
+      <DependentUpon>PrivacyPolicy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Page\PrivacyPolicy.aspx.designer.cs">
+      <DependentUpon>PrivacyPolicy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Page\TopMaster.Master.cs">
+      <DependentUpon>TopMaster.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Page\TopMaster.Master.designer.cs">
+      <DependentUpon>TopMaster.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Page\Wellcome.aspx.cs">
+      <DependentUpon>Wellcome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Page\Wellcome.aspx.designer.cs">
+      <DependentUpon>Wellcome.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="App_Themes\" />
+    <Folder Include="bin\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Page\TopMaster.Master" />
+    <Content Include="Ajax\API.ashx" />
+    <Content Include="Fonts\eot\IRANSansWeb.eot" />
+    <Content Include="Fonts\eot\IRANSansWeb_Bold.eot" />
+    <Content Include="Fonts\eot\IRANSansWeb_Light.eot" />
+    <Content Include="Fonts\eot\IRANSansWeb_Medium.eot" />
+    <Content Include="Fonts\eot\IRANSansWeb_UltraLight.eot" />
+    <Content Include="Fonts\fontawesome-webfont.eot" />
+    <Content Include="Fonts\fontawesome-webfont.ttf" />
+    <Content Include="Fonts\fontawesome-webfont.woff" />
+    <Content Include="Fonts\fontawesome-webfont.woff2" />
+    <Content Include="Fonts\FontAwesome.otf" />
+    <Content Include="Fonts\ttf\IRANSansWeb.ttf" />
+    <Content Include="Fonts\ttf\IRANSansWeb_Bold.ttf" />
+    <Content Include="Fonts\ttf\IRANSansWeb_Light.ttf" />
+    <Content Include="Fonts\ttf\IRANSansWeb_Medium.ttf" />
+    <Content Include="Fonts\ttf\IRANSansWeb_UltraLight.ttf" />
+    <Content Include="Fonts\woff2\IRANSansWeb.woff2" />
+    <Content Include="Fonts\woff\IRANSansWeb.woff" />
+    <Content Include="Fonts\woff\IRANSansWeb_Bold.woff" />
+    <Content Include="Fonts\woff\IRANSansWeb_Light.woff" />
+    <Content Include="Fonts\woff\IRANSansWeb_Medium.woff" />
+    <Content Include="Fonts\woff\IRANSansWeb_UltraLight.woff" />
+    <None Include="Properties\PublishProfiles\Profile1.pubxml" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DBUtil\DBUtil.csproj">
+      <Project>{5fb191d0-d9cb-4947-a0d6-5e147c32ec38}</Project>
+      <Name>DBUtil</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>20470</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost/KnowledgeManagement.UI.WebApplication</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
